@@ -1,0 +1,23 @@
+{
+  "nav": {
+    "work": "Work",
+    "about": "About",
+    "insight": "Insight",
+    "contact": "Contact",
+    "availability": "Available for new projects"
+  },
+  "hero": {
+    "title": "Engineering High-Impact Systems",
+    "subtitle": "Bridging robust architecture with interactive visual craft.",
+    "cta": "Explore Capabilities"
+  },
+  "error": {
+    "404": "404 // Out of Bounds",
+    "404_desc": "The signal was lost. This route does not exist in the current architecture.",
+    "404_cta": "Return to Root",
+    "500": "500 // System Interruption",
+    "500_desc": "An unexpected error occurred during execution.",
+    "500_cta": "Re-initialize Session",
+    "500_report": "Report Trace"
+  }
+}

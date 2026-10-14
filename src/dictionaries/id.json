@@ -1,0 +1,23 @@
+{
+  "nav": {
+    "work": "Karya",
+    "about": "Tentang",
+    "insight": "Wawasan",
+    "contact": "Kontak",
+    "availability": "Tersedia untuk proyek baru"
+  },
+  "hero": {
+    "title": "Merekayasa Sistem Berdampak Tinggi",
+    "subtitle": "Menjembatani arsitektur tangguh dengan kerajinan visual interaktif.",
+    "cta": "Jelajahi Kapabilitas"
+  },
+  "error": {
+    "404": "404 // Di Luar Jangkauan",
+    "404_desc": "Sinyal terputus. Rute ini tidak ada dalam arsitektur saat ini.",
+    "404_cta": "Kembali ke Akar",
+    "500": "500 // Gangguan Sistem",
+    "500_desc": "Terjadi kesalahan tak terduga selama eksekusi.",
+    "500_cta": "Inisialisasi Ulang Sesi",
+    "500_report": "Laporkan Jejak"
+  }
+}
